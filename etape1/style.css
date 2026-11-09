@@ -4,6 +4,9 @@ body {
 }
 
 #table_container {
+    width: 700px;
+    margin: 20px auto;
+    padding: 15px;
     display: flex;
     justify-content: center;
     margin-top: 30px;
@@ -12,7 +15,7 @@ body {
 
 table {
     border-collapse: collapse;
-    width: 500px;
+    width: 100%;
 }
 
 
@@ -30,7 +33,7 @@ td {
 }
 
 
-.col_number {
+.col_n {
     width: 30px;
 }
 
